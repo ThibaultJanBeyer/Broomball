@@ -39,8 +39,11 @@ footer-links:
 # You can find your shortname on the Settings page of your Disqus account
 disqus: broomball
 
-# Enter your Google Adsense code (e.g. ca-pub-7411822855484586) to activate ads
+# Enter your Google Adsense code (e.g. ca-pub-7411822855484586) to activate automatic ads
 google_adsense: ca-pub-7411822855484586
+# For specially custom designed ad positions set it to true than you will have to manually create specific ads and add their position ID into the respective fields here
+google_adsense_custom: false
+google_adsense_toppost: 7317432950
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-125783115-1
