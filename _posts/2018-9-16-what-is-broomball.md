@@ -1,6 +1,7 @@
 ---
 layout: post
 title: What is Broomball? (+ why you will absolutely love it)
+desc: Heard of the new & exiting sport called broomball? It is a fast sport played on ice which is exploding in popularity because ... 
 image: /images/wiki/broomball-players-fighting-for-the-ball.jpg
 image_alt: three broomball players fighting for the ball. One is jumping, the other one is already lying on the ice, the third one skates in from the back. They wear normal sports clothes, broomball specific helmets and have brooms. In the background stands a referee. 
 ---
@@ -9,11 +10,11 @@ How many sports on the ice do you know? Ice hockey, curling, skating? Yes, you h
 
 ## So, what the heck is Broomball?
 
-Broomball is the best sport on ice I've played so far. Let me tell you why you'll love broomball too:
+It is the best sport on ice I've played so far. Let me tell you why you'll love broomball too:
 
 Broomball is very easy to get into. It is easy to learn and you won't have to take a loan to afford the equipment. Broomball is not as freaking expensive as ice hockey. In fact, you'll only need the helmet, the stick and some sport shoes. That makes it even affordable if your a broke college student. 
 
-Broomball is an exiting game played on a similar court as in ice hockey. But half as large, for double the thrill. 2 teams of usually 6 players fight for the ball to score as many points as possible. You get points by shooting it into the opponent's goal. The goals have actually the same shape and size as in ice hockey. Both sports also share most of their rules. The rules in broomball are a bit simpler, because the simpler the better.
+Broomball is an exiting sport game played on a similar court as in ice hockey. But half as large, for double the thrill. 2 teams of usually 6 players fight for the ball to score as many points as possible. You get points by shooting it into the opponent's goal. The goals have actually the same shape and size as in ice hockey. Both sports also share most of their rules. The rules in broomball are a bit simpler, because the simpler the better.
 
 ## Is broomball like hockey? 
 
