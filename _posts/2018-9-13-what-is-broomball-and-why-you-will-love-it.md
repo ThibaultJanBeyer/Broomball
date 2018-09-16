@@ -26,14 +26,14 @@ Broomball is actually often compared to hockey. If you get asked what is Broomba
 
 By the way, the amount of players can vary too. In some amateur games, I have seen games with as many as 50 players and sometimes as few as 3 on 3. That makes broomball one of the most flexible fun-games.
 
-## What makes it special?
+## What makes broomball special?
 
 Broomball is a very very very speedy game. An official match only consists of two 18-20 minutes half times. If there is need for overtime, it is another 20 minutes but this time without goalies. If there is still no winner, goal shots are played. Moreover, broomball can be played in gender mixed teams. That's a great thing. Women don't have disadvantages over men. The ice kind of equalizes the game for everyone. Actually, women are often faster and more agile. Still, goals shot by women are worth 2 points while goals scored by men 1. Take that. Thus, it can be strategic to put women in attacking positions. But who knows if broomball keeps the mixed philosophy as the sport evolve and get more and more players. 
 
-## Popularity.
+## Is broomball popular? 
 
 A broomball game is a very intense and fast paced game. It is a terrific way to improve your teamworking skills. While being easy to learn and does not need a lot of upfront costs. No wonder the love for broomball is growing so fast! More and more countries have adopted the sport. There are official broomball headquarters in Canada, USA, Russia, Switzerland, Germany, Finland, Sweden, Italy, Australia and even in Japan! No matter what you do, there will always be Asians bringing it to the next level. Every year new national as well as international tournaments arise. Now, the IFBA is even considering taking broomball to the winter Olympics. 
 
-## Conclusion.
+## Broomball is awesome! 
 
 Broomball has it all: almost no financial entrance barrier, easy to learn, flexible, fast and fun to play. No wonder broomball is becoming so popular. It is quite an exercise, inclusive and even a bit weird. There you have it, the perfect recipe to spice up your mundane life!
