@@ -26,5 +26,16 @@ layout: default
     {{ content }}
   </div>
 
+  {% if site.google_adsense_custom %}
+  <!-- Broomball - Below content -->
+  <ins class="adsbygoogle"
+     style="display:block"
+     data-ad-client="{{ google_adsense }}"
+     data-ad-slot="{{ google_adsense_botpost }}"
+     data-ad-format="auto"
+     data-full-width-responsive="true"></ins>
+  <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  {% endif %}
+  
   {% include disqus.html %}
 </article>
