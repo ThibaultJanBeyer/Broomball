@@ -1,6 +1,6 @@
 ---
 layout: post
-title: What is Broomball? And why you will absolutely love it!
+title: What is Broomball? (+ why you will absolutely love it)
 image: /images/wiki/broomball-players-fighting-for-the-ball.jpg
 image_alt: three broomball players fighting for the ball. One is jumping, the other one is already lying on the ice, the third one skates in from the back. They wear normal sports clothes, broomball specific helmets and have brooms. In the background stands a referee. 
 ---
