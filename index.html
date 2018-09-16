@@ -6,7 +6,7 @@ layout: default
   {% for post in site.posts %}
     <article class="post">
       
-      {% if page.image %}
+      {% if post.image %}
       <a href="{{ site.baseurl }}{{ post.url }}"
          class="posts__img-container">
         <img src="{{ post.image }}"
