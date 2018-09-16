@@ -40,7 +40,7 @@ footer-links:
 disqus: broomball
 
 # Enter your Google Adsense code (e.g. ca-pub-7411822855484586) to activate ads
-google_analytics: ca-pub-7411822855484586
+google_adsense: ca-pub-7411822855484586
 
 # Enter your Google Analytics web tracking code (e.g. UA-2110908-2) to activate tracking
 google_analytics: UA-125783115-1
