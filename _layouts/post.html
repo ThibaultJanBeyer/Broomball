@@ -14,12 +14,12 @@ layout: default
 
   <div class="entry">
 
-    {% if site.adsense %} 
+    {% if site.google_adsense_integrated %} 
     <!-- Broomball - Top Article Ad -->
     <ins class="adsbygoogle"
          style="display:inline-block;width:300px;height:250px"
-         data-ad-client="ca-pub-7411822855484586"
-         data-ad-slot="7317432950"></ins>
+         data-ad-client="{{ google_adsense }}"
+         data-ad-slot="{{ google_adsense_toppost }}"></ins>
     <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
     {% endif %} 
     
